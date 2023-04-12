@@ -133,7 +133,13 @@ plt.show()
 ```
 
 ### i)Image Translation
-## Output:![download](https://user-images.githubusercontent.com/118707669/231393735-4f826915-716d-408d-9b55-05b250239777.png)
+
+## Output:
+
+
+![download](https://user-images.githubusercontent.com/118707669/231393735-4f826915-716d-408d-9b55-05b250239777.png)
+
+
 
 ![download](https://user-images.githubusercontent.com/118707669/231393824-e2abf53d-3c9c-4fb5-a9b5-dafb70f0ea4c.png)
 
