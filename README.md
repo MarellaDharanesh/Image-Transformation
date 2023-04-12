@@ -131,26 +131,34 @@ plt.show()
 
 
 ```
-## Output:
+
 ### i)Image Translation
+## Output:![download](https://user-images.githubusercontent.com/118707669/231393735-4f826915-716d-408d-9b55-05b250239777.png)
+
+![download](https://user-images.githubusercontent.com/118707669/231393824-e2abf53d-3c9c-4fb5-a9b5-dafb70f0ea4c.png)
 
 
-![download](https://user-images.githubusercontent.com/118707669/231389498-1f0e5252-ad8f-4738-b4d3-1ca56139245f.png)
 
 
-![download](https://user-images.githubusercontent.com/118707669/231389546-da9fed2c-7af0-42c4-a8ad-f23090d36b0a.png)
+
+
+
+
+
+
 
 ### ii) Image Scaling
-![download](https://user-images.githubusercontent.com/118707669/231389582-9b448a0b-ff9b-4246-9622-41765585f8f4.png)
+![download](https://user-images.githubusercontent.com/118707669/231393931-fb471382-d718-47cd-b884-a4a58ff5e044.png)
 
 
 
 ### iii)Image shearing
+![download](https://user-images.githubusercontent.com/118707669/231393983-ea6c40cf-73a4-4e49-9271-89f38888ccbf.png)
 
 
+![download](https://user-images.githubusercontent.com/118707669/231394001-efd82b9e-a1e5-4fdf-b849-71f5a9837e61.png)
 
-![download](https://user-images.githubusercontent.com/118707669/231393021-ac66b322-e58f-460b-a402-dc20a6f2c318.png)
-![download](https://user-images.githubusercontent.com/118707669/231393068-bca86e73-c6d5-49af-9850-2fb14e49f35b.png)
+
 
 ### iv)Image Reflection
 ![download](https://user-images.githubusercontent.com/118707669/231393105-17381a21-89f6-451b-97df-d4529d00f14a.png)
@@ -161,14 +169,14 @@ plt.show()
 
 ### v)Image Rotation
 
-![download](https://user-images.githubusercontent.com/118707669/231390551-f14e29cf-2bef-4734-883f-c2c292972c8e.png)
+![download](https://user-images.githubusercontent.com/118707669/231393678-50d3fb99-01bb-4110-a3f4-6052eb66fa8e.png)
 
 
 ### vi)Image Cropping
 
-![download](https://user-images.githubusercontent.com/118707669/231390300-1903eefa-00b7-4f45-85d3-30c363307f56.png)
 
 
+![download](https://user-images.githubusercontent.com/118707669/231393647-07f9f23e-8214-49d0-8edf-a5ccef5f94fe.png)
 
 
 
